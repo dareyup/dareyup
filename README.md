@@ -11,7 +11,7 @@ endeavors involved with analyzing data, statistical analysis, building models, a
 🛠️ Tools Used:
 
 * Database: Microsoft SQL Server | PostgreSQL | MySQL
-* Languages: SQL |Python | R
+* Languages: SQL | Python | R
 * Visualizaion: Power BI | Tableau
 * Others: Excel | Google Sheets | MS Office |
 
